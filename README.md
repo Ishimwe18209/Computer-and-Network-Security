@@ -1,2 +1,2 @@
 # Computer-and-Network-Security
-Windows 10 Hardening report done by me
+Windows 10 Hardening and checklist
